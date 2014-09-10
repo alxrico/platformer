@@ -6,9 +6,7 @@ game.resources = [
 	 */
      { name:"background-tiles", type:"image", src:"data/img/background-tiles.png" },
      { name:"player1-spritesheet", type:"image", src:"data/img/player1-spritesheet.png" },
-     { name:"meta-tiles", type:"image", src:"data/img/meta-tiles.png" },
-     { name:"item-spritesheet", type:"image", src:"data/img/item-spritesheet.png" },
-     { name:"sheet", type:"image", src:"data/img/sheet.png" },
+
 
 	/* Atlases 
 	 * @example
@@ -20,15 +18,8 @@ game.resources = [
 	 * {name: "example01", type: "tmx", src: "data/map/example01.tmx"},
 	 * {name: "example01", type: "tmx", src: "data/map/example01.json"},
  	 */
-     
-     { name:"1", type:"tmx", src:"data/map/1.tmx" },
-     { name:"2", type:"tmx", src:"data/map/2.tmx" },
-     { name:"3", type:"tmx", src:"data/map/3.tmx" },
-     { name:"4", type:"tmx", src:"data/map/4.tmx" },
-     { name:"5", type:"tmx", src:"data/map/5.tmx" },
-     { name:"6", type:"tmx", src:"data/map/6.tmx" },
-     { name:"7", type:"tmx", src:"data/map/7.tmx" }
 
+     { name:"newworld", type:"tmx", src:"data/map/newworld.tmx" }
 
 	/* Background music. 
 	 * @example
